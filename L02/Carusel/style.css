@@ -1,0 +1,55 @@
+#continut{
+    background-color: rgb(96, 206, 243);
+    border-top:solid 1px rgb(68, 115, 131);
+    border-bottom: solid 1px rgb(81, 158, 184);
+    width: 980px;
+    margin: 20px auto 0 auto;
+    position: relative;
+}
+#header{
+    height:150px;
+    padding:10px;
+}
+#logo{
+    left:150px;
+    line-height:70px;
+    height:70px;
+    top:0;
+    text-align: center;
+}
+#meniu{
+    width:940px;
+    background-color: rgb(68, 155, 184);
+    margin:20px 0 0 0;
+    height:55px;
+    padding:0 20px 0 20px;
+    position:absolute;
+    left: 0;
+    bottom:0;
+    line-height:55px;
+}
+#meniu ul li{
+    display:inline;
+    padding: 0 10px 0 10px;
+    text-transform:uppercase;
+    text-decoration: none;
+    color:white;
+}
+#myCarousel{
+    position: relative;
+    width:940px;
+    background-color:rgb(240, 251, 255);
+    padding:20px;
+    margin: 0 auto 0 auto;
+}
+#titlu{
+    font-size: 30px;
+    text-align: center;
+}
+#titluSecund{
+    text-indent: 50px;
+}
+#market{
+    text-align: center;
+    font-size: 50px;
+}
